@@ -1,0 +1,2 @@
+/usr/bin/ar qc libsqrtLibrary.a CMakeFiles/sqrtLibrary.dir/mysqrt.cxx.o
+/usr/bin/ranlib libsqrtLibrary.a

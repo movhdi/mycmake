@@ -1,0 +1,7 @@
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/CMakeFiles/Tutorial.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/CMakeFiles/edit_cache.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/CMakeFiles/rebuild_cache.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/MathFunctions/CMakeFiles/MathFunctions.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/MathFunctions/CMakeFiles/SqrtLibrary.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/MathFunctions/CMakeFiles/edit_cache.dir
+/home/med/Desktop/cmake-3.29.0-tutorial-source/Step4/step4_build/MathFunctions/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libMathMine.a CMakeFiles/MathMine.dir/MathFunctions.cxx.o
+/usr/bin/ranlib libMathMine.a
